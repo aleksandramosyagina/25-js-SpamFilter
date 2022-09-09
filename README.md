@@ -3,6 +3,6 @@
 Необходимо реализовать отображение и добавление сообщений, а также функцию `checkSpam(str)`, заменяющую `'viagra'` или `'XXX'` на `***`
 
 Функция должна быть нечувствительна к регистру:
-let comment1 = checkSpam('buy ViAgRA now'); //результат buy *** now
-let comment2 = checkSpam('free xxx'); //результат free ***
-let comment3 = checkSpam("innocent rabbit") ; //результат innocent rabbit
+
+<img width="667" alt="Снимок экрана 2022-09-09 в 19 05 47" src="https://user-images.githubusercontent.com/102720237/189393717-934df25e-6c76-4fe8-b5b7-b2867d180900.png">
+
